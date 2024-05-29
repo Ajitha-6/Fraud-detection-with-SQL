@@ -31,7 +31,7 @@ Accomplish three main tasks:
 - [credit_card.csv](https://github.com/Ajitha-6/Data/files/15480055/credit_card.csv)
 - [merchant.csv](https://github.com/Ajitha-6/Data/files/15480060/merchant.csv)
 - [merchant_category.csv](https://github.com/Ajitha-6/Data/files/15480063/merchant_category.csv)
-- [transaction.csv](https://github.com/Ajitha-6/Data/files/15480066/transaction.csv)
+- https://github.com/Ajitha-6/Fraud-detection-with-SQL/blob/main/transaction.csv
 
 
  **Data Modeling**

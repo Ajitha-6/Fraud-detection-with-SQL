@@ -23,7 +23,7 @@ Accomplish three main tasks:
 **Query Files**
 
 * https://github.com/Ajitha-6/SQL/blob/main/schema.sql
-* [seed.sql](SQL/seed.sql)
+* https://github.com/Ajitha-6/SQL/blob/main/seed.sql
 
 **CSV Files**
 
